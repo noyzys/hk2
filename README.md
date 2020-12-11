@@ -43,3 +43,4 @@ hk2
 ===
 
 A light-weight and dynamic dependency injection framework
+Work in progress, refactoring for 2021.
